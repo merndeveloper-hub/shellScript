@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<EmployeeDetails>
+
+<Employee>
+<Employeeid>101</Employeeid>
+<EmployeeName>Sumit</EmployeeName>
+</Employee>
+
+
+<Employee>
+<Employeeid>102</Employeeid>
+<EmployeeName>Amit</EmployeeName>
+</Employee>
+
+
+</EmployeeDetails>

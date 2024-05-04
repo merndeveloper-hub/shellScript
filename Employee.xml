@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<EmployeeDetails>
+
+<Employee>
+<EmployeeID>120538</EmployeeID>
+<ContactName>Sandoos</ContactName>
+<ContactNumber>92034343434</ContactNumber>
+<ContactAdress>VCAP</ContactAdress>
+<ContactEmail>sandoss@gmail.com</ContactEmail>
+<ContactType>COntractor</ContactType>
+<DOB> Auguest1987 </DOB>
+<DOJ>Jan20th2012</DOJ>
+<Department>Cloud</Department>
+
+</Employee>
+
+
+
+
+
+</EmployeeDetails>
